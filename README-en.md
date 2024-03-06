@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>RustとWebAssemblyのBook</h1>
+  <h1>The Rust and WebAssembly Book</h1>
 
-  <strong>この小規模なBookは、RustとWebAssemblyを一緒に使う方法を説明しています。 また、クールな練習問題を含むチュートリアルで構成されています。</strong>
+  <strong>This small book describes how to use Rust and WebAssembly together.  It also consists of tutorials with cool exercises.</strong>
 
   <h3>
     <a href="https://rustwasm.github.io/docs/book/">Read the Book</a>
@@ -17,9 +17,11 @@
 
 ## About
 
-このリポジトリには、wasmのRustでの使い方、一般的なワークフロー、始め方など、より深く掘り下げていくためのドキュメントが含まれています。Rustを使って本当に素晴らしいことをするためのガイドの役割を果たします。
+This repo contains documentation on using Rust for wasm, common workflows, how
+to get started and more as you dive deeper. It acts as a guide for doing some really neat things with rust.
 
-RustとWebAssemblyの使い方を一緒に学び始めたい方は、[こちら][The Book]をお読みください。
+If you would like to start learning how to use Rust and WebAssembly together,
+ you can read the book [online here][book].
 
 [Open issues for improving the Rust and WebAssembly book.][book-issues]
 
